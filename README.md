@@ -2,7 +2,8 @@
 - 👀 I’m interested in Java, and new techs
 - 🌱 I’m currently learning Microservices
 - 💞️ I’m looking to collaborate on anything
-- 📫 Reach me on Telegram, I got an universal ID.
+- 📫 Reach me on [Telegram](https://t.me/alectoraj), I got an universal ID.
+- 📫 Find me on [Linkedin](https://www.linkedin.com/in/arindam-biswas/)
 
 <!---
 alectoraj/alectoraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
