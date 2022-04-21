@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, and new techs
 - 🌱 I’m currently experiencing Microservices & Mongo DB
 - 💞️ I’m looking to collaborate on anything
-- 📫 Reach me on [Telegram](https://t.me/rb_arindam), use a combination of underscore or dot or nothing on that username to find me anywhere.
+- 📫 Reach me on [Telegram](https://t.me/rb_arindam)
 - 📫 Find me on [Linkedin](https://www.linkedin.com/in/arindam-biswas/)
 - 🌏 Check my web portfolio at https://rbarindam.github.io
 
